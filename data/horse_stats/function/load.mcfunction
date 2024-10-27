@@ -10,3 +10,6 @@ scoreboard objectives modify horse_stats displayname "Horse Stats Display Toggle
 
 ##init schedule
 schedule function horse_stats:run 30t
+
+##remove temp data
+data remove storage eden:temp horse_stats
