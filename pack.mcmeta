@@ -1,9 +1,9 @@
 {
 	"pack": {
-		"pack_format": 60,
+		"pack_format": 71,
 		"description": [
 			{
-				"text": "Nice Horse Stats v1.0 by NiceRon",
+				"text": "Nice Horse Stats by NiceRon",
 				"color": "white"
 			}
 		]
